@@ -37,7 +37,7 @@ First, sign in to the [Azure portal](https://portal.azure.com) and then select *
 
 1. Select your Windows VM and then select **Reset password** under **Help**. The **Reset password** window is displayed.
 
-2. Select **Reset password**, enter a username and a password, and then select **Update**.
+2. Select **Reset password**, enter a username and a password, and then select **Submit**.
 
 3. Try connecting to your VM again.
 
